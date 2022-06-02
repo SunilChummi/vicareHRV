@@ -1,0 +1,251 @@
+[{
+  "_id": {
+    "$oid": "60c21312c9f5f942358fd4b8"
+  },
+  "duration": 6,
+  "weight": "59",
+  "status": "completed",
+  "recorderSlNo": "HR-70EC96AC",
+  "patientId": 26,
+  "patientName": "Patient P",
+  "doctorId": "4",
+  "doctorName": "Sunil Kumar",
+  "height": "164",
+  "location": "",
+  "questions": {
+    "qText1": "Are you sick",
+    "qAnswer1": "no",
+    "qText2": "How stressed are you",
+    "qAnswer2": "normal",
+    "qText3": "How did you sleep last noght",
+    "qAnswer3": "Great"
+  },
+  "created": {
+    "$date": "2021-06-10T13:26:42.546Z"
+  },
+  "__v": 0,
+  "guid": "A39A1457-7A31-4083-B516-24B51B16459A"
+},{
+  "_id": {
+    "$oid": "60d18e9dbb18f01cd2057c79"
+  },
+  "duration": 6,
+  "weight": "90",
+  "guid": null,
+  "status": "in progress",
+  "recorderSlNo": "HR-70EC96AC",
+  "patientId": 25,
+  "patientName": "Individual Ind",
+  "doctorId": "4",
+  "doctorName": "Doctor D",
+  "height": "180",
+  "location": "",
+  "questions": {
+    "qText1": "Are you sick",
+    "qAnswer1": "Yes",
+    "qText2": "How stressed are you",
+    "qAnswer2": "normal",
+    "qText3": "How did you sleep last night",
+    "qAnswer3": "Great"
+  },
+  "created": {
+    "$date": "2021-06-22T07:17:49.588Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d18ef29630361d149e1420"
+  },
+  "duration": 6,
+  "weight": "90",
+  "guid": "A39A1457-7A31-4083-B516-24B51B16459F",
+  "status": "completed",
+  "recorderSlNo": "HR-70EC96AC",
+  "patientId": 26,
+  "patientName": "Patient P",
+  "doctorId": "4",
+  "doctorName": "Doctor D",
+  "height": "180",
+  "location": "",
+  "questions": {
+    "qText1": "Are you sick",
+    "qAnswer1": "Yes",
+    "qText2": "How stressed are you",
+    "qAnswer2": "normal",
+    "qText3": "How did you sleep last night",
+    "qAnswer3": "Great"
+  },
+  "bmi": "27.77777777777778",
+  "created": {
+    "$date": "2021-06-22T07:19:14.142Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d18f259630361d149e1421"
+  },
+  "duration": 6,
+  "weight": "90",
+  "guid": null,
+  "status": "in progress",
+  "recorderSlNo": "HR-70EC96AC",
+  "patientId": 25,
+  "patientName": "Individual Ind",
+  "doctorId": "4",
+  "doctorName": "Doctor D",
+  "height": "180",
+  "location": "",
+  "questions": {
+    "qText1": "Are you sick",
+    "qAnswer1": "Yes",
+    "qText2": "How stressed are you",
+    "qAnswer2": "normal",
+    "qText3": "How did you sleep last night",
+    "qAnswer3": "Great"
+  },
+  "bmi": "27.77777777777778",
+  "created": {
+    "$date": "2021-06-22T07:20:05.849Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d18f335dd89e1d4ac7b2b3"
+  },
+  "duration": 6,
+  "weight": "90",
+  "guid": null,
+  "status": "in progress",
+  "recorderSlNo": "HR-70EC96AC",
+  "patientId": 5,
+  "patientName": "Individual Ind",
+  "doctorId": "4",
+  "doctorName": "Doctor D",
+  "height": "180",
+  "location": "",
+  "questions": {
+    "qText1": "Are you sick",
+    "qAnswer1": "Yes",
+    "qText2": "How stressed are you",
+    "qAnswer2": "normal",
+    "qText3": "How did you sleep last night",
+    "qAnswer3": "Great"
+  },
+  "bmi": "27.78",
+  "created": {
+    "$date": "2021-06-22T07:20:19.773Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ddee7050dc56033a0c5b37"
+  },
+  "duration": 6,
+  "weight": "60",
+  "guid": null,
+  "status": "in progress",
+  "recorderSlNo": "HR-70EC96AC",
+  "patientId": 5,
+  "patientName": "Individual Ind",
+  "doctorId": "2",
+  "doctorName": "Doctor D",
+  "height": "160",
+  "location": "",
+  "bmi": "23.44",
+  "questions": {
+    "qText1": "Are you sick",
+    "qAnswer1": "no",
+    "qText2": "How stressed are you",
+    "qAnswer2": "normal",
+    "qText3": "How did you sleep last noght",
+    "qAnswer3": "Great"
+  },
+  "created": {
+    "$date": "2021-07-01T16:33:52.254Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62015030fddfe305193c5dfc"
+  },
+  "duration": 6,
+  "weight": "60",
+  "guid": null,
+  "status": "in progress",
+  "recorderSlNo": "HR-70EC96AC",
+  "patientId": 25,
+  "patientName": "Individual Ind",
+  "doctorId": "4",
+  "doctorName": "Doctor D",
+  "height": "160",
+  "location": "",
+  "bmi": "23.44",
+  "questions": {
+    "qText1": "Are you sick",
+    "qAnswer1": "no",
+    "qText2": "How stressed are you",
+    "qAnswer2": "normal",
+    "qText3": "How did you sleep last noght",
+    "qAnswer3": "Great"
+  },
+  "created": {
+    "$date": "2022-02-07T17:00:32.368Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62015039f5df1705309468cd"
+  },
+  "duration": 6,
+  "weight": "60",
+  "guid": "494B2522-26CC-46B2-B01B-5669AB078BBE",
+  "status": "completed",
+  "recorderSlNo": "HR-70EC96AC",
+  "patientId": 25,
+  "patientName": "Individual Ind",
+  "doctorId": "4",
+  "doctorName": "Doctor D",
+  "height": "160",
+  "location": "",
+  "bmi": "23.44",
+  "questions": {
+    "qText1": "Are you sick",
+    "qAnswer1": "no",
+    "qText2": "How stressed are you",
+    "qAnswer2": "normal",
+    "qText3": "How did you sleep last noght",
+    "qAnswer3": "Great"
+  },
+  "created": {
+    "$date": "2022-02-07T17:00:41.135Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6207cfd054ba0e0574d0c089"
+  },
+  "duration": 6,
+  "weight": "60",
+  "guid": null,
+  "status": "in progress",
+  "recorderSlNo": "HR-70EC96AC",
+  "patientId": 25,
+  "patientName": "Individual Ind",
+  "doctorId": "4",
+  "doctorName": "Doctor D",
+  "height": "160",
+  "location": "",
+  "bmi": "23.44",
+  "questions": {
+    "qText1": "Are you sick",
+    "qAnswer1": "no",
+    "qText2": "How stressed are you",
+    "qAnswer2": "normal",
+    "qText3": "How did you sleep last noght",
+    "qAnswer3": "Great"
+  },
+  "created": {
+    "$date": "2022-02-12T15:18:40.885Z"
+  },
+  "__v": 0
+}]

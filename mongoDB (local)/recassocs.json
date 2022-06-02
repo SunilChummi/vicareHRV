@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "60ad491865c53d5df6aa1ae3"
+  },
+  "ra_valid_upto": {
+    "$date": "2022-05-25T18:59:25.443Z"
+  },
+  "ra_status": 0,
+  "ra_credits": 100,
+  "ra_rec_slno": "HR-70EC96AC",
+  "ra_userid": 4,
+  "ra_mobile": 9738102690,
+  "ra_email": "john1@hospital.com",
+  "ra_contact_name": "Doctor1 John",
+  "ra_date": {
+    "$date": "2021-05-25T18:59:36.209Z"
+  },
+  "created_at": {
+    "$date": "2021-05-25T18:59:36.209Z"
+  },
+  "updated_at": {
+    "$date": "2021-05-25T18:59:36.209Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612f6e275fc88744b1c9ce6f"
+  },
+  "ra_valid_upto": {
+    "$date": "2022-05-25T18:59:25.443Z"
+  },
+  "ra_status": 1,
+  "ra_credits": 100,
+  "ra_rec_slno": "HR-70EC96AC",
+  "ra_mobile": 9738102690,
+  "ra_email": "john1@hospital.com",
+  "ra_contact_name": "Doctor1 John",
+  "ra_userid": 4,
+  "ra_date": {
+    "$date": "2021-09-01T12:12:23.997Z"
+  },
+  "created_at": {
+    "$date": "2021-09-01T12:12:23.997Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-01T12:12:23.997Z"
+  },
+  "__v": 0
+}]

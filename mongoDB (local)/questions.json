@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6096accb983d0b23ba74a94d"
+  },
+  "type": "checkbox",
+  "status": 1,
+  "question": "Question1",
+  "answer1": "answer1",
+  "answer2": "answer2",
+  "answer3": "answer3",
+  "createdAt": {
+    "$date": "2021-05-08T15:22:51.868Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-08T15:22:51.868Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6096ae359195c6246967723c"
+  },
+  "type": "checkbox",
+  "status": 0,
+  "question": "Question20",
+  "answer1": "answer11",
+  "answer2": "answer21",
+  "answer3": "answer31",
+  "createdAt": {
+    "$date": "2021-05-08T15:28:53.322Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-08T15:28:53.322Z"
+  },
+  "__v": 0
+}]

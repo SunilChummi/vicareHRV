@@ -1,0 +1,196 @@
+[{
+  "_id": {
+    "$oid": "609c143bfcf01a1162c70119"
+  },
+  "newsLetter": 0,
+  "mobileAlert": 1,
+  "emailAlert": 1,
+  "userId": 27,
+  "created": {
+    "$date": "2021-05-12T17:45:31.229Z"
+  },
+  "updated": {
+    "$date": "2021-05-12T17:45:31.229Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c155698452111c96fd0fd"
+  },
+  "newsLetter": 0,
+  "mobileAlert": 1,
+  "emailAlert": 1,
+  "userId": 31,
+  "created": {
+    "$date": "2021-05-12T17:50:14.189Z"
+  },
+  "updated": {
+    "$date": "2021-05-12T17:50:14.189Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c156098452111c96fd100"
+  },
+  "newsLetter": 0,
+  "mobileAlert": 1,
+  "emailAlert": 1,
+  "userId": 32,
+  "created": {
+    "$date": "2021-05-12T17:50:24.982Z"
+  },
+  "updated": {
+    "$date": "2021-05-12T17:50:24.982Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c156a98452111c96fd103"
+  },
+  "newsLetter": 0,
+  "mobileAlert": 1,
+  "emailAlert": 1,
+  "userId": 33,
+  "created": {
+    "$date": "2021-05-12T17:50:34.360Z"
+  },
+  "updated": {
+    "$date": "2021-05-12T17:50:34.360Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c1786f364de13549e5f2d"
+  },
+  "newsLetter": 0,
+  "mobileAlert": 1,
+  "emailAlert": 1,
+  "userId": 34,
+  "created": {
+    "$date": "2021-05-12T17:59:34.976Z"
+  },
+  "updated": {
+    "$date": "2021-05-12T17:59:34.976Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c18449b42f513c03979c8"
+  },
+  "newsLetter": 0,
+  "mobileAlert": 1,
+  "emailAlert": 1,
+  "userId": 35,
+  "created": {
+    "$date": "2021-05-12T18:02:44.153Z"
+  },
+  "updated": {
+    "$date": "2021-05-12T18:02:44.153Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c2096b854e4184e5d4c34"
+  },
+  "newsLetter": 0,
+  "mobileAlert": 1,
+  "emailAlert": 1,
+  "userId": 37,
+  "created": {
+    "$date": "2021-05-12T18:38:14.172Z"
+  },
+  "updated": {
+    "$date": "2021-05-12T18:38:14.172Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609c2165b854e4184e5d4c37"
+  },
+  "newsLetter": 0,
+  "mobileAlert": 1,
+  "emailAlert": 1,
+  "userId": 38,
+  "created": {
+    "$date": "2021-05-12T18:41:41.475Z"
+  },
+  "updated": {
+    "$date": "2021-05-12T18:41:41.475Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abe44d9f93144960b95647"
+  },
+  "newsLetter": 0,
+  "mobileAlert": 1,
+  "emailAlert": 1,
+  "userId": 2,
+  "created": {
+    "$date": "2021-05-24T17:37:17.204Z"
+  },
+  "updated": {
+    "$date": "2021-05-24T17:37:17.204Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abe7c3d827ed4ad4fa4dee"
+  },
+  "newsLetter": 0,
+  "mobileAlert": 1,
+  "emailAlert": 1,
+  "userId": 3,
+  "created": {
+    "$date": "2021-05-24T17:52:03.395Z"
+  },
+  "updated": {
+    "$date": "2021-05-24T17:52:03.395Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60acfffdbccd6b3dd1c9ff5d"
+  },
+  "newsLetter": 1,
+  "mobileAlert": 1,
+  "emailAlert": 1,
+  "userId": 4,
+  "created": {
+    "$date": "2021-05-25T13:47:41.345Z"
+  },
+  "updated": {
+    "$date": "2021-05-25T13:47:41.345Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cf5b14abd9891d6dd6aa42"
+  },
+  "newsLetter": 1,
+  "mobileAlert": 1,
+  "emailAlert": 1,
+  "userId": 28,
+  "created": {
+    "$date": "2021-06-20T15:13:24.658Z"
+  },
+  "updated": {
+    "$date": "2021-06-20T15:13:24.658Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f45eaaebc6b134ea763aeb"
+  },
+  "newsLetter": 1,
+  "mobileAlert": 1,
+  "emailAlert": 1,
+  "userId": 31,
+  "created": {
+    "$date": "2021-07-18T17:02:34.153Z"
+  },
+  "updated": {
+    "$date": "2021-07-18T17:02:34.153Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "60966e28f83a130b666285b4"
+  },
+  "rec_status": 1,
+  "deleted": false,
+  "rec_slno": "HR-70EC96AC",
+  "rec_name": "Test",
+  "rec_manufacturer": "Demo",
+  "rec_brandname": "Demo",
+  "created_at": {
+    "$date": "2021-05-08T10:55:36.505Z"
+  },
+  "updated_at": {
+    "$date": "2021-05-08T10:55:36.506Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60966fcfb5a7910c43442565"
+  },
+  "rec_status": null,
+  "deleted": false,
+  "rec_slno": "HR-70EC96DD",
+  "rec_name": null,
+  "rec_manufacturer": null,
+  "rec_brandname": null,
+  "created_at": {
+    "$date": "2021-05-08T11:02:39.500Z"
+  },
+  "updated_at": {
+    "$date": "2021-05-08T11:02:39.500Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d35f7f6380ef4fb96c933a"
+  },
+  "rec_status": 1,
+  "rec_slno": "HR-70EC96AA",
+  "rec_name": "Test",
+  "rec_manufacturer": "Demo",
+  "rec_brandname": "Demo",
+  "created_at": {
+    "$date": "2021-06-23T16:21:19.351Z"
+  },
+  "updated_at": {
+    "$date": "2021-06-23T16:21:19.351Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d35f966380ef4fb96c933b"
+  },
+  "rec_status": 1,
+  "rec_slno": "HR-70EC96AB",
+  "rec_name": "Test",
+  "rec_manufacturer": "Demo",
+  "rec_brandname": "Demo",
+  "created_at": {
+    "$date": "2021-06-23T16:21:42.573Z"
+  },
+  "updated_at": {
+    "$date": "2021-06-23T16:21:42.573Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d35f966380ef4fb96c933c"
+  },
+  "rec_status": 1,
+  "rec_slno": "HR-70EC96AD",
+  "rec_name": "Test",
+  "rec_manufacturer": "Demo",
+  "rec_brandname": "Demo",
+  "created_at": {
+    "$date": "2021-06-23T16:21:42.579Z"
+  },
+  "updated_at": {
+    "$date": "2021-06-23T16:21:42.579Z"
+  },
+  "__v": 0
+}]

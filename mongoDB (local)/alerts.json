@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "60ad446f0254565b9597aae3"
+  },
+  "to": 1,
+  "notifyTo": 1,
+  "priority": 3,
+  "status": 0,
+  "from": 24,
+  "type": "incoming",
+  "description": "Individual Ind is trying to add you as Medical contact",
+  "created": {
+    "$date": "2021-05-25T18:39:43.819Z"
+  },
+  "updated": {
+    "$date": "2021-05-25T18:39:43.819Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad452a74fe285c02ad70b6"
+  },
+  "to": 4,
+  "notifyTo": 4,
+  "priority": 3,
+  "status": 0,
+  "from": 25,
+  "type": "incoming",
+  "description": "Individual Ind is trying to add you as Medical contact",
+  "created": {
+    "$date": "2021-05-25T18:42:50.910Z"
+  },
+  "updated": {
+    "$date": "2021-05-25T18:42:50.910Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad458e74fe285c02ad70b9"
+  },
+  "to": 4,
+  "notifyTo": 4,
+  "priority": 3,
+  "status": 0,
+  "from": 26,
+  "type": "incoming",
+  "description": "Patient P is trying to add you as Medical contact",
+  "created": {
+    "$date": "2021-05-25T18:44:30.845Z"
+  },
+  "updated": {
+    "$date": "2021-05-25T18:44:30.845Z"
+  },
+  "__v": 0
+}]

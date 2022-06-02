@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "60ad452a74fe285c02ad70b5"
+  },
+  "activities": {
+    "a1": true,
+    "a2": false,
+    "a3": true,
+    "a4": true,
+    "a5": false,
+    "a6": true,
+    "actOther": "nothing else"
+  },
+  "healthHistory": {
+    "h1": true,
+    "h2": false,
+    "h3": false,
+    "h4": false,
+    "h5": false,
+    "h6": true,
+    "h7": true,
+    "healthOther": "No"
+  },
+  "lastName": "Ind",
+  "refIdUsed": null,
+  "gender": "female",
+  "status": 1,
+  "userId": 25,
+  "firstName": "Individual",
+  "email": "individual@gmail.com",
+  "countryCode": "+91",
+  "mobile": 9738102690,
+  "address": "Yelahanka",
+  "zipCode": "560223",
+  "town": "Yelahanka",
+  "country": "India",
+  "weight": "70",
+  "height": "170",
+  "intensity": "Regular",
+  "role": "patient",
+  "createdBy": 4,
+  "medicalContacts": [],
+  "created": {
+    "$date": "2021-05-25T18:42:50.882Z"
+  },
+  "updated": {
+    "$date": "2021-05-25T18:42:50.882Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad458e74fe285c02ad70b7"
+  },
+  "activities": {
+    "a1": true,
+    "a2": true,
+    "a3": true,
+    "a4": true,
+    "a5": false,
+    "a6": true,
+    "actOther": "nothing else"
+  },
+  "healthHistory": {
+    "h1": true,
+    "h2": false,
+    "h3": false,
+    "h4": false,
+    "h5": false,
+    "h6": true,
+    "healthOther": "No"
+  },
+  "lastName": "P",
+  "refIdUsed": "2844-2021-0009",
+  "gender": "male",
+  "status": 1,
+  "userId": 26,
+  "firstName": "Patient",
+  "email": "patient@gmail.com",
+  "countryCode": "+91",
+  "mobile": 87899999999,
+  "address": "Hosur",
+  "zipCode": "560223",
+  "town": "Hosur",
+  "country": "India",
+  "birthday": "1997-05-24",
+  "weight": "50",
+  "height": "150",
+  "intensity": "Regular",
+  "role": "patient",
+  "createdBy": 1,
+  "medicalContacts": [
+    {
+      "approved": 0,
+      "_id": {
+        "$oid": "60ad458e74fe285c02ad70b8"
+      },
+      "contactUserId": 4,
+      "contactUserName": "Individual Ind"
+    }
+  ],
+  "created": {
+    "$date": "2021-05-25T18:44:30.835Z"
+  },
+  "updated": {
+    "$date": "2021-05-25T18:44:30.835Z"
+  },
+  "__v": 0
+}]

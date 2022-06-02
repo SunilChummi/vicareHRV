@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "60abe44c9f93144960b95645"
+  },
+  "token": null,
+  "status": 0,
+  "id": 2,
+  "email": "sunil@gmail.com",
+  "password": "$2a$10$vB/XKuc009f4O9MnNgITGOe7Ubf5WDQQnMOGoO/Ecndd3MduHsQxy",
+  "countryCode": "+91",
+  "mobile": 9738102690,
+  "role": "doctor",
+  "verified": 1,
+  "otp": 480712,
+  "created": {
+    "$date": "2021-05-24T17:37:16.998Z"
+  },
+  "updated": {
+    "$date": "2021-05-24T17:37:16.998Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abe7c3d827ed4ad4fa4dec"
+  },
+  "token": null,
+  "status": 0,
+  "id": 3,
+  "email": "sunil1@gmail.com",
+  "password": "$2a$10$LMP37JBtjBp6fuP4loZPTO18pO12lpgbBTip6xvL/F8LR96VMwmWa",
+  "countryCode": "+91",
+  "mobile": 9738102690,
+  "role": "doctor",
+  "verified": 1,
+  "otp": 673037,
+  "created": {
+    "$date": "2021-05-24T17:52:03.156Z"
+  },
+  "updated": {
+    "$date": "2021-05-24T17:52:03.157Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60acfffdbccd6b3dd1c9ff5b"
+  },
+  "token": null,
+  "status": 0,
+  "id": 4,
+  "email": "individual@gmail.com",
+  "password": "$2a$10$4jh3I9BkezZ0K3m/yKLR1.OOgtB0ttzbmPbKYx2mIOg/y/MDiUUD6",
+  "countryCode": "+91",
+  "mobile": 9738102690,
+  "role": "individual",
+  "verified": 1,
+  "otp": 561494,
+  "created": {
+    "$date": "2021-05-25T13:47:41.129Z"
+  },
+  "updated": {
+    "$date": "2021-05-25T13:47:41.129Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cf5ac40f06ec1d06647f2c"
+  },
+  "token": null,
+  "status": 0,
+  "id": 27,
+  "email": "anil@gmail.com",
+  "password": "$2a$10$A/6/HSsvAT6q27DuZE8NxOen9OeNOq./HYCkTcegMAn9l5gudNGbK",
+  "countryCode": "+91",
+  "mobile": 9738102690,
+  "role": "doctor",
+  "verified": 0,
+  "otp": 779946,
+  "created": {
+    "$date": "2021-06-20T15:12:04.808Z"
+  },
+  "updated": {
+    "$date": "2021-06-20T15:12:04.809Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cf5b14abd9891d6dd6aa40"
+  },
+  "token": null,
+  "status": 0,
+  "id": 28,
+  "email": "anil1@gmail.com",
+  "password": "$2a$10$5hkFqD7nbLXSsPypUxIfa.mFfNdzjdeGktc0MadKZmNH37S0LgEyG",
+  "countryCode": "+91",
+  "mobile": 9738102690,
+  "role": "doctor",
+  "verified": 0,
+  "otp": 767406,
+  "created": {
+    "$date": "2021-06-20T15:13:24.388Z"
+  },
+  "updated": {
+    "$date": "2021-06-20T15:13:24.388Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f45ea9ebc6b134ea763ae9"
+  },
+  "token": null,
+  "status": 0,
+  "id": 31,
+  "email": "sunil18anil@gmail.com",
+  "password": "$2a$10$qs7jeEliAteepZOOpuxKdeHovyEZyXj0GM5uouodcFYwjmroKovlW",
+  "countryCode": "+91",
+  "mobile": 9738102690,
+  "role": "doctor",
+  "verified": 0,
+  "otp": 1234,
+  "created": {
+    "$date": "2021-07-18T17:02:33.826Z"
+  },
+  "updated": {
+    "$date": "2021-07-18T17:02:33.826Z"
+  },
+  "__v": 0
+}]
