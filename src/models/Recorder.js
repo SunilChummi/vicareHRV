@@ -11,8 +11,6 @@ const RecorderSchema = new Schema({
   updated_at: { type: Date, default: Date.now }
 })
 
-// RecorderSchema.plugin(mongoosePaginate)
-
 const Recorder = mongoose.model('Recorder', RecorderSchema)
 
 module.exports = Recorder
